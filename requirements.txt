@@ -1,2 +1,3 @@
 cohere 
-tweepy
+tweepy 
+dotenv 
