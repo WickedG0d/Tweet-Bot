@@ -1,0 +1,7 @@
+.env
+used_tweets.txt
+__pycache__/
+Lib
+Scripts
+Include
+pyvenv.cfg
